@@ -64,7 +64,8 @@
     <findbugs-maven.version>3.0.0</findbugs-maven.version>
     
     <!-- JaCoCo Properties -->
-    <jacoco-maven.version>0.7.2.201409121644</jacoco-maven.version>
+    <!-- <jacoco-maven.version>0.7.2.201409121644</jacoco-maven.version> -->
+    <jacoco-maven.version>0.8.1</jacoco-maven.version>
     <jacoco.include.package>**/*</jacoco.include.package>
   </properties>
   
