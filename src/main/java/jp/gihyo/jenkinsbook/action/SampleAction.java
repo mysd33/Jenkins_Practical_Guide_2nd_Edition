@@ -53,8 +53,8 @@ public class SampleAction {
         }
 
         //バグ
-        return true;
-        //return false;
+        //return true;
+        return false;
     }
 
     /**
